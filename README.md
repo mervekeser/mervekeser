@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 #  🌍 _Hello World_   👩🏻‍🦰 _I'm Merve_ 
 
-<br> <img src="[/Users/apple/Desktop/Merve/GMP_U2F2ZUdIMDE= 2.GIF](https://media.tenor.com/TgZakHWcPjsAAAAM/fingers-crossed-emoji.gif)" width="140" height="140">
+<br> ![Fingers Crossed](https://media.tenor.com/TgZakHWcPjsAAAAM/fingers-crossed-emoji.gif)
 
 # 💫 About Me:
 👩‍💻I'm currently working on my skills<br>🧗🏻‍♀️I'm currently learning more about Full Stack Development<br>📨How to reach me: Email-mervekeser8888@gmail.com
@@ -35,9 +35,6 @@ Here are some ideas to get you started:
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mervekeser&icon=8&color=0)](https://visitcount.itsvg.in)
