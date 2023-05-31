@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<br> ![Fingers Crossed](https://media.tenor.com/TgZakHWcPjsAAAAM/fingers-crossed-emoji.gif)
 
 # 💫 About Me:
 👩‍💻I'm currently working on my skills<br>🧗🏻‍♀️I'm currently learning more about Full Stack Development<br>📨How to reach me: Email-mervekeser8888@gmail.com
