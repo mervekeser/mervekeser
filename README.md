@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 #  🌍 _Hello World_   👩🏻‍🦰 _I'm Merve_ 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mervekeser&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -39,5 +38,7 @@ Here are some ideas to get you started:
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=mervekeser&icon=8&color=0)](https://visitcount.itsvg.in)
 
 
