@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-👩‍💻I'm currently working on my skills<br>🧗🏻‍♀️I'm currently learning more about Full Stack Development<br>📨How to reach me: Email-mervekeser8888@gmail.com
+👩‍💻I'm currently working on my skills and 🧗🏻‍♀️learning more about Full Stack Development<br>📨How to reach me: Email-mervekeser8888@gmail.com
 
 
 ## 🌐 Socials:
