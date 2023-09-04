@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 # 💫 About Me:
 👩‍💻I'm currently working on my skills and 🧗🏻‍♀️learning more about Full Stack Development<br>📨How to reach me: Email-mervekeser8888@gmail.com
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mervekeser8888) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20960382) 
@@ -33,10 +36,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mervekeser&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mervekeser&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
