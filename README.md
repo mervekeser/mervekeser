@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 #  🌍 _Hello World_   👩🏻‍🦰 _I'm Merve_ 
 
 
-[![](https://visitcount.itsvg.in/api?id=mervekeser&icon=8&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mervekeser&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
