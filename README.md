@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mervekeser8888) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20960382) 
 
 # 💻 Tech Stack:
-![Techs](https://skillicons.dev/icons?i=c,java,spring,javascript,react,redux,git,postgresql,docker,tailwind,bootstrap,css,html)
+![Techs](https://skillicons.dev/icons?i=c,java,spring,javascript,typescript,react,redux,git,postgresql,docker,tailwind,bootstrap,css,html)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mervekeser&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mervekeser&theme=nightowl&hide_border=false)<br/>
