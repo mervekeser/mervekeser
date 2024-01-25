@@ -20,18 +20,21 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-👩‍💻I'm currently working on my skills <br>🧗🏻‍♀️learning more about Full Stack Development<br>📨How to reach me-> Email: mervekeser8888@gmail.com<br>
+👩‍💻In the field of software development, I enjoy working on the backend with Java. Currently, my focus is on Microservices, keeping up with technology trends. On the frontend side, I work with React and TypeScript. Briefly about myself: After graduating from the nursing department, I worked as a Consultant at Oriflame. This experience enhanced my communication and teamwork skills. Due to my interest in technology, I started improving myself through software training and began contributing to new software projects.<br><br>
+> How to reach me--> mervekeser8@outlook.com
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mervekeser8888) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20960382) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mervekeser8888) [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/20960382) 
 
-# 💻 Tech Stack:
-![Techs](https://skillicons.dev/icons?i=c,java,spring,javascript,typescript,react,redux,git,postgresql,docker,tailwind,bootstrap,css,html)
+## 💻 Tech Stacks:
+|Backend    |Frontend        |Database        |DevOps          |
+|----|--------|--------|----------|
+| ![BackendTechs](https://skillicons.dev/icons?i=c,java,spring,hibernate,maven) | ![Front](https://skillicons.dev/icons?i=javascript,typescript,react,redux,tailwind,bootstrap,css,html) |  ![DBTechs](https://skillicons.dev/icons?i=postgresql) | ![DevOps](https://skillicons.dev/icons?i=git,postman,docker,kubernetes,aws) |
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mervekeser&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mervekeser&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mervekeser&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+|    |    |    |
+|---|---|------|
+| ![](https://github-readme-stats.vercel.app/api?username=mervekeser&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=mervekeser&theme=nightowl&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mervekeser&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 
 ---
 
