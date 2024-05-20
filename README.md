@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mervekeser) [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/20960382) [![Mail](https://skillicons.dev/icons?i=gmail)](mailto:mervekeser8@outlook.com) [![HackerRank](https://github.com/mervekeser/mervekeser/assets/119412056/a8f45674-e2ac-4b80-a1e2-dbb4430c9116)](https://www.hackerrank.com/profile/mervekeser)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mervekeser) [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/20960382) [![Mail](https://skillicons.dev/icons?i=gmail)](mailto:mervekeser8@outlook.com) [![HackerRank](https://github.com/mervekeser/mervekeser/assets/119412056/a8f45674-e2ac-4b80-a1e2-dbb4430c9116)](https://www.hackerrank.com/profile/mervekeser) [![Medium](https://github.com/mervekeser/mervekeser/assets/119412056/89d2c2a0-25bf-4aad-9770-1c4b09595738)](https://medium.com/@mervekeser)
+
 
 
 
