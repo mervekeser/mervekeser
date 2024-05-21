@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"><h1> <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/2728.gif" width="70" heigth="20"/><i> Greetings Mate, I'm Merve</i> <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/2728.gif" width="70" heigth="20"/> </h1> 
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif" alt="tesla" width="383" heigth="498"/> </div>
+<img src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd" alt="tesla" width="540" heigth="260"/> </div>
 
 [![](https://visitcount.itsvg.in/api?id=mervekeser&label=Profile%20Views&color=10&icon=2&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
