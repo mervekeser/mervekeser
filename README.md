@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://bigumigu.com/wp-content/uploads/2016/02/127286282556d0799e09f899.19617348.gif" alt="tesla" width="383" heigth="498"/> <img src="https://bigumigu.com/wp-content/uploads/2016/02/194538380856d07914ba3dd0.48676765.gif" alt="hawkin" width="200" heigth="98" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.karar.com/d/other/2016/03/02/albert-einsetin.gif" alt="albert" width="200" heigth="98" />
+<div align="center"><h1> <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/2728.gif" width="70" heigth="20"/><i> Greetings Mate, I'm Merve</i> <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/2728.gif" width="70" heigth="20"/> </h1> 
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif" alt="tesla" width="383" heigth="498"/> </div>
 
 [![](https://visitcount.itsvg.in/api?id=mervekeser&label=Profile%20Views&color=10&icon=2&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
