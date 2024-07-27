@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ## 💻 Tech Stacks:
 |Backend    |Frontend        |Database        |DevOps          |
 |----|--------|--------|----------|
-| ![BackendTechs](https://skillicons.dev/icons?i=c,java,spring,hibernate,maven) | ![Front](https://skillicons.dev/icons?i=javascript,typescript,angular,react,redux,tailwind,bootstrap,css,html) |  ![DBTechs](https://skillicons.dev/icons?i=postgresql,mongodb) | ![DevOps](https://skillicons.dev/icons?i=git,postman,docker,kubernetes,aws) |
+| ![BackendTechs](https://skillicons.dev/icons?i=c,java,spring,hibernate,maven) | ![Front](https://skillicons.dev/icons?i=javascript,typescript,angular,react,redux,tailwind,bootstrap,css,html) |  ![DBTechs](https://skillicons.dev/icons?i=postgresql,redis) | ![DevOps](https://skillicons.dev/icons?i=git,postman,docker,kubernetes,aws) |
 
 
 ---
