@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hi 👋🏻 I'm Merve👩🏻‍🦰 I started learning software development a year ago and have enjoyed developing applications, so I decided to pursue a career as a software developer. I graduated from the İstanbul Kodluyor software course. In this course, we developed a full-stack rent a car project using Java, Spring Boot, React and Typescript. I continue to learn and practice new skills. <br>
+Hi 👋🏻 I'm Merve👩🏻‍🦰 I started learning software development in 2023 and have enjoyed developing applications, so I decided to pursue a career as a software developer. I graduated from the İstanbul Kodluyor software course. In this course, we developed a full-stack rent a car project using Java, Spring Boot, React and Typescript. I continue to learn and practice new skills. <br>
 <!--I started learning software development a year ago and have enjoyed developing applications, so I decided to pursue a career as a software developer. I graduated from the İstanbul Kodluyor software course. In this course, we developed a full-stack rent a car project using Java, Spring Boot, React and Typescript. I continue to learn and practice new skills.-->
 
 
