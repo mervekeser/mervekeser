@@ -6,16 +6,18 @@ Hi 👋🏻 I'm Merve👩🏻‍🦰 I started learning software development in 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mervekeser) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mervekeser8@outlook.com) 
 
-## Tech stacks:
-### Backend:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,expressjs,)](https://skillicons.dev) <br/>
-### Frontend:
-[![My Skills](https://skillicons.dev/icons?i=js,react,redux,html,css,bootstrap)](https://skillicons.dev)<br/>
-### Database:
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)<br/>
-### DevOps:
-[![My Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)
+## My Projects:
+| Project Name | Project Repository |
+| --------- | ---------- |
+| Rent A Car | [Backend](https://github.com/mervekeser/delta-rental-backend) |
+| Rent A Car | [Frontend](https://github.com/mervekeser/delta-rental-frontend) |
 
+
+## Tech stacks:
+| Development | Technologies |
+| --------- | ---------- |
+| Backend - Database | [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,expressjs,)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)|
+| Frontend - DevOps | [![My Skills](https://skillicons.dev/icons?i=js,react,redux,html,css,bootstrap,)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev) |
 
 <!--## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mervekeser&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
