@@ -5,12 +5,12 @@ Hi 👋🏻 I'm Merve👩🏻‍🦰 I started learning software development in 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mervekeser) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mervekeser8@outlook.com) 
-
+<!--
 ## My Projects:
 | Project Name | Project Repository |
 | --------- | ---------- |
 | Rent A Car | [Backend](https://github.com/mervekeser/delta-rental-backend) |
-| Rent A Car | [Frontend](https://github.com/mervekeser/delta-rental-frontend) |
+| Rent A Car | [Frontend](https://github.com/mervekeser/delta-rental-frontend) | -->
 
 
 ## Tech stacks:
